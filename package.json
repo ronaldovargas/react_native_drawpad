@@ -1,0 +1,24 @@
+{
+  "name": "react-native-drawpad",
+  "version": "1.0.4",
+  "description": "A react native drawpad component that implement with webview and web bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "draw",
+    "pad"
+  ],
+  "author": "Ronaldo Vargas",
+  "license": "MIT",
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "git://github.com/Partido-Asia/react-native-multi-slider",
+    "create-react-class": "^15.6.3",
+    "prop-types": "^15.6.2",
+    "react-native-vector-icons": "^4.0.0",
+    "react-native-webview-bridge": "git://github.com/Partido-Asia/react-native-webview-bridge.git"
+  }
+}
